@@ -1,1 +1,3 @@
-class Dog start 
+class Dog
+  
+end
